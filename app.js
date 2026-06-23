@@ -38,7 +38,7 @@ var modalHTML = '' +
         '<div class="modal-conteudo">' +
             '<span id="fechar-modal" class="fechar-modal">&#10007</span>' +
             '<h2>Login</h2>' +
-            '<form id="form-login">'
+            '<form id="form-login">' +
                 '<label for="email">E-mail</label>' +
                 '<input type="email" id="email" placeholder="Digite o seu e-mail">' +
                 '<span id="erro-email" class="erro-msg"></span>' +
